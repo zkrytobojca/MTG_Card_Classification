@@ -1,0 +1,4 @@
+To get data visit Scryfall API repository:
+https://scryfall.com/docs/api/bulk-data
+
+I prefer to use 'Default Cards' bulk data file

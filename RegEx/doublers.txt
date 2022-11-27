@@ -1,0 +1,1 @@
+([Dd]ouble|[Tt]riple|[Tt]wice)|(for each[^.]*(create|put))

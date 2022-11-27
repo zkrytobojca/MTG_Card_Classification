@@ -1,0 +1,1 @@
+((?<!lose )([Ee]ach|[Aa]ll(?!y)|(?<![Aa]n)[Oo]ther)[^,.]*(get[^,.]*[+]\d+\/[+]\d+|gain(?![^,.]*life)|have|has))

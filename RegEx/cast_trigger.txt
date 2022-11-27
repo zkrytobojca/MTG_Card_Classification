@@ -1,0 +1,1 @@
+(([Ww]hen|[Ww]henever)[^,.]*(cast|play(?!er)))

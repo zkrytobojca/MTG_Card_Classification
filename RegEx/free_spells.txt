@@ -1,0 +1,1 @@
+((rather than pay|instead of paying) (this spell's|CARD_NAME's) mana cost)

@@ -1,0 +1,1 @@
+([Dd]raw[^,.]*cards[^,.]*, then[^,.]*(put|return)[^,.]*(library|exile|graveyard))|(([Ll]ook|[Rr]eveal)[^,.]*cards[^,.]*library.*[Pp]ut[^,.]*hand)|([Ss]cry \d+)

@@ -1,0 +1,1 @@
+([Rr]eturn (target|all|each|chosen)(?![^,.]*from)(?![^,.]*card)[^,.]*hand)

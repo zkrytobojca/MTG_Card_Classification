@@ -1,0 +1,1 @@
+([Ss]earch(?![^,.]*[Oo]pponent's)[^,.]*library(?![^,.]*[Bb]asic)(?![^,.]*[Ll]and)(?![^,.]*[Mm]ountain)(?![^,.]*[Ff]orest)(?![^,.]*[Pp]lains)(?![^,.]*[Ii]sland)(?![^,.]*[Ss]wamp))

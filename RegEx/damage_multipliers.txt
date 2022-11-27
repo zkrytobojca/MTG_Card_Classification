@@ -1,0 +1,1 @@
+(([Ii]f|[Ww]hen|[Ww]henever)[^,.]*source[^,.]*deal[^,.]*damage[^.]*damage[^,.]*instead)

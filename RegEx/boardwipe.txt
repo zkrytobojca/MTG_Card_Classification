@@ -1,0 +1,1 @@
+((([Dd]estroy|[Ee]xile|[Ss]acrifice) (all|each)(?![^,.]*from)(?![^,.]*chosen)(?![^,.]*card)(?![^,.]*spell)(?![^,.]*graveyard)(?![^,.]*hand))|([Rr]eturn (all|each)(?![^,.]*from)(?![^,.]*chosen)(?![^,.]*card)[^,.]*hand))|(([Ee]ach|[Aa]ll)[^,.]*creature[^,.]*-\d*\/-\d*)

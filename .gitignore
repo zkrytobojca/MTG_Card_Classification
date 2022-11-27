@@ -1,0 +1,7 @@
+# User-specific files
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
+
+# Data from Scryfall in API folder
+/API/*
+!/API/info.txt

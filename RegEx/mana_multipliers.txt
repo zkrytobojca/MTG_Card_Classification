@@ -1,0 +1,1 @@
+(([Dd]ouble|[Tt]riple)[^,.]*mana)|(([Ww]henever|[Ww]hen)[^,.]*tap[^,.]*mana[^.]*(add[^,.]*mana|mana[^,.]*instead|additional))

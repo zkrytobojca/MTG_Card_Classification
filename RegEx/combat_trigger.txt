@@ -1,0 +1,1 @@
+([Aa]t the beginning of[^,.]*(?<!pre)combat)

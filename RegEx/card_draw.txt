@@ -1,0 +1,1 @@
+((^|[.])(?![Ww]henever[^,.]*)[Dd]raw[^,.]*card)|(([Ww]henever|[Ii]f)[^.]*,[^.]*[Dd]raw[^,.]*card)

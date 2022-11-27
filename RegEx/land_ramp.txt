@@ -1,0 +1,1 @@
+(((([Bb]asic|[Ff]orest|[Mm]ountain|[Ss]wamp|[Pp]lains|[Ii]sland)[^,.]*card)|land)[^.]*put[^,.]*onto[^,.]*battlefield)|(may play[^,.]*(additional|any number)[^,.]*land)

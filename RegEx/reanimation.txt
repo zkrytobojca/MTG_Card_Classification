@@ -1,0 +1,1 @@
+([Rr]eturn[^,.]*card[^,.]*from[^,.]*graveyard[^,.]*battlefield)|([Cc]hoose[^,.]*card[^,.]*graveyard.*[Rr]eturn[^,.]*(it|them)[^,.]*battlefield)

@@ -1,0 +1,1 @@
+([Ss]acrifice[^,.:]*(?<!this )(creature|enchantment|artifact|land|permanent|planeswaker)[^.:]*:)

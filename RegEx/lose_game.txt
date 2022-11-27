@@ -1,0 +1,1 @@
+((?<!can't )(?<!can not )lose the game)|(can't win the game)

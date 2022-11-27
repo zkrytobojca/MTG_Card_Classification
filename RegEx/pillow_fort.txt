@@ -1,0 +1,1 @@
+(([Ww]hen|[Ww]henever)[^,.]*((attack[^,.]*you(?!r))|(deal[^,.]*damage[^,.]*to you(?!r)))[^,.]*)|([Cc]reatures[^,.]*(can not|can't)[^,.]*attack)|([Pp]revent[^,.]*damage[^,.]*to you(?!r))|([Dd]eal[^,.]*no[^,.]*combat damage)

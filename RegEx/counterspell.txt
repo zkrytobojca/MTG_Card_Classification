@@ -1,0 +1,1 @@
+((?<![Ww]ould)(?<![Ii]f).*[Cc]ounter[^.,]*spell.*[.])|((each|all|any)[^.]*,[^.]*counter)|([Ee]xile[^.,]*spells)

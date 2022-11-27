@@ -1,0 +1,1 @@
+(([Cc]reate|[Pp]ut|[Bb]ecome)[^,.]*creatures? token)

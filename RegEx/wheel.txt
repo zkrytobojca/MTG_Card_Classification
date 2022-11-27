@@ -1,0 +1,1 @@
+([Dd]iscard[^,.]*hand.*[Dd]raw[^,.]*(that many|equal to|seven|7))

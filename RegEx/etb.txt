@@ -1,0 +1,1 @@
+(([Ww]hen|[Ww]henever) CARD_NAME enters? the battlefield)

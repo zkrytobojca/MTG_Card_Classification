@@ -1,0 +1,1 @@
+([Bb]ecome[^,.]*creature)|((is|are|as)[^,.]*creature[^,.]*in addition[^,.]*other types)

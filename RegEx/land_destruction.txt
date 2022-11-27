@@ -1,0 +1,1 @@
+(([Dd]estroy|[Ee]xile)[^,.:]*((?<!non)land|(?<!nonland )permanent))

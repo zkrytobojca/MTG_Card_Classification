@@ -1,0 +1,1 @@
+([Tt]rigger[^,.]*additional)|([Cc]opy[^,.]*trigger)

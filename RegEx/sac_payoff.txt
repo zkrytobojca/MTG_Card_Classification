@@ -1,0 +1,1 @@
+(([Ww]hen|[Ww]henever) (?!CARD_NAME)(?!this)(?!enchanted)[^,.]*(?<!CARD_NAME) (dies?|leaves? the battlefield|sacrificed))|(([Ww]hen|[Ww]henever) CARD_NAME or another [^,.]* (dies?|leaves? the battlefield|sacrificed))

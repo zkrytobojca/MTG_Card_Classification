@@ -1,0 +1,1 @@
+([Pp]ut[^,.]*card[^,.]*hand[^,.]*(battlefield|into play))|([Cc]ast[^,.]*without[^,.]*pay[^,.]*mana)

@@ -1,0 +1,1 @@
+(([Dd]estroy|[Ee]xile)[^,.]*((?<!non)enchantment|(?<!non)artifact))|(([Ss]huffle|[Pp]ut)(?![^,.]*counter)[^,.]*((?<!non)enchantment|(?<!non)artifact)(?![^,.]*battlefield))
