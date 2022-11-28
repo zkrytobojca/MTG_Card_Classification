@@ -3,5 +3,10 @@
 ## About
 
 ## Technologies used
+- Python (Scikit-learn, Pandas, NumPy, Matplotlib, Pickle, Seaborn)
+- Regex
+- JSON
+- Jupyter Notebook
+- Scryfall API (https://scryfall.com/)
 
 ## Highlights
