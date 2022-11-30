@@ -1,6 +1,23 @@
 # MTG_Card_Classification - ML Project about Magic: the Gathering TCG
 
 ## About
+This project was important part of my master's thesis in computer science. It is a machine learning / data science project about classifying cards from the Magic: the Gathering card game based on information about a given card.
+
+First of all, this project required some work in the field of data engineering - that is, creating a good dataset to operate on. I opted to get raw data from Scryfall API and transform it to fit my needs. I transformed ~287MB of JSON data with help of Pandas data frames into a CSV document. Some information aboput cards could be transferred almost unaltered as a new dataset attributes, but others required feature engineering. Important tool in that case turned out to be regular expressions (regex). This technique helped me create 60 custom attributes representing player-created categories of cards (like mana rock, burn spell or removal). 
+
+After dataset was created, the fun part begun. I wanted to train two sets of classifiers:
+- card color classifier - able to predict card color based on other information about the card. It could be used as help in creating new cards.
+- card indicative price classifier - able to predict card price range based on other information about the card. It could be helpful for traders and players in general when dealing with newly spoiler cards. 
+
+I got to test 4 supervised learning algorithms: 
+- Random Forest
+- Multi-layer Perceptron (MLPClassifier)
+- K Nearest Neighbours (K-NN)
+- Adaboost-SAMME
+
+Best hyperparameters for all of them where chosen by grid search algorithm. After the models where trained, they were evaluated using 5-fold cross-validation. 
+
+Each created classifier was composed of small set of binary classifiers that together desided about final class prediction. This way many combinations of coexisting classes could be easily handled with relatively high accuracy.
 
 ## Technologies used
 - Python (Scikit-learn, Pandas, NumPy, Matplotlib, Pickle, Seaborn)
