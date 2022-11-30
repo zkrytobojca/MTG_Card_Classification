@@ -1,7 +1,12 @@
 # User-specific files
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
+.private
 
-# Data from Scryfall in API folder
+# Raw data from Scryfall in API folder
 /API/*
 !/API/info.txt
+
+# Dataset
+/Datasets/*
+!/Datasets/mtg_dataset.csv
