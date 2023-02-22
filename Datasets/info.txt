@@ -1,0 +1,2 @@
+To create dataset run "Card Data Extractor" file.
+Be sure to download newest data from Scryfall API first (API folder)!

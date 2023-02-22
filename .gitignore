@@ -9,4 +9,8 @@
 
 # Dataset
 /Datasets/*
-!/Datasets/mtg_dataset.csv
+!/Datasets/info.txt
+
+# Models
+/Models/*
+!/Models/info.txt

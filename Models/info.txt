@@ -1,0 +1,2 @@
+To create models run "MTG Color Training" and "MTG Price Training" files.
+Be sure to provide dataset first (Datasets folder)!
